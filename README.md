@@ -56,16 +56,25 @@ Modern enterprises face three critical challenges in business automation:
 - Calendar:
   <img width="1243" height="760" alt="Screenshot 2025-12-01 073936" src="https://github.com/user-attachments/assets/f97e265c-e770-4e18-b96e-0d16b710e81b" />
 - app:
-  <img width="649" height="409" alt="Screenshot 2025-12-01 081805" src="https://github.com/user-attachments/assets/d9dbc7b8-6ad0-4472-8e2a-55ab6d0faea6" />
   
   <img width="1437" height="924" alt="Screenshot 2025-12-01 074156" src="https://github.com/user-attachments/assets/3fefed0f-4c72-48c0-8e84-f19c54176149" />
+
+  <img width="649" height="409" alt="Screenshot 2025-12-01 081805" src="https://github.com/user-attachments/assets/d9dbc7b8-6ad0-4472-8e2a-55ab6d0faea6" />
+  
 - app:
+- 
   <img width="1472" height="1024" alt="Screenshot 2025-12-01 053813" src="https://github.com/user-attachments/assets/9d5f1c8a-eb32-4f7f-992b-28c2ebe8cb03" />
+  
 - app:
+  
   <img width="1298" height="817" alt="Screenshot 2025-12-01 075205" src="https://github.com/user-attachments/assets/fb8ea618-2a64-4711-9514-befc481c13bf" />
+  
 - app:
+  
   <img width="849" height="300" alt="Screenshot 2025-12-01 074405" src="https://github.com/user-attachments/assets/3f9acae6-88c0-40f2-9255-14810cf4646a" />
+  
 - phone_notification:
+  
   ![WhatsApp Image 2025-12-02 at 7 54 25 AM](https://github.com/user-attachments/assets/e15fd2af-4a27-4fcb-b20c-32aaf7341bc9)
 
 
